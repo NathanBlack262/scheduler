@@ -1,0 +1,43 @@
+Class, Section, Days, Times
+BIOL 2421 (Microbiology),001,MWF,1200-1250
+BIOL 2421 (Microbiology),002,TR,1100-1215
+BIOL 2421 (Microbiology Lab),101,M,0900-1150
+BIOL 2421 (Microbiology Lab),102,M,1300-1550
+BIOL 2421 (Microbiology Lab),103,M,1630-1920
+BIOL 2421 (Microbiology Lab),104,T,0800-1050
+BIOL 2421 (Microbiology Lab),105,T,1230-1520
+BIOL 2421 (Microbiology Lab),106,T,1600-1850
+BIOL 2421 (Microbiology Lab),107,W,0900-1150
+BIOL 2421 (Microbiology Lab),108,W,1300-1550
+BIOL 2421 (Microbiology Lab),109,W,1630-1920
+BIOL 2421 (Microbiology Lab),110,R,0800-1050
+BIOL 2421 (Microbiology Lab),111,R,1230-1520
+CHEM 3411 (Organic Chemistry I),001,TR,1100-1215
+CHEM 3411 (Organic Chemistry I),002,TR,0930-1045
+CHEM 3411 (Organic Chemistry I),003,MWF,1100-1150
+CHEM 3411 (Organic Chemistry I),004,MWF,1200-1250
+CHEM 3411 (Organic Chemistry I Lab),101,M,1400-1650
+CHEM 3411 (Organic Chemistry I Lab),102,M,1700-1950
+CHEM 3411 (Organic Chemistry I Lab),103,T,1100-1350
+CHEM 3411 (Organic Chemistry I Lab),104,T,1400-1650
+CHEM 3411 (Organic Chemistry I Lab),105,W,0800-1050
+CHEM 3411 (Organic Chemistry I Lab),106,W,1400-1650
+CHEM 3411 (Organic Chemistry I Lab),107,T,0800-1050
+CHEM 3411 (Organic Chemistry I Lab),108,W,1700-1950
+CHEM 3411 (Organic Chemistry I Lab),109,R,0800-1050
+CHEM 3411 (Organic Chemistry I Lab),110,R,1100-1350
+CHEM 3411 (Organic Chemistry I Lab),111,R,1400-1650
+CHEM 3411 (Organic Chemistry I Lab),112,R,1700-1950
+PHYS 2425 (University Physics I),001,MW,1530-1645
+PHYS 2425 (University Physics I),002,TR,1530-1645
+PHYS 2425 (University Physics I Lab),101,T,0800-1050
+PHYS 2425 (University Physics I Lab),102,W,1100-1350
+PHYS 2425 (University Physics I Lab),103,W,1700-1950
+PHYS 2425 (University Physics I Lab),104,R,1700-1950
+PHYS 2425 (University Physics I Lab),106,M,0800-1050
+MATH 3315 (Differential Equations),001,MW,1400-1515
+MATH 3315 (Differential Equations),002,TR,0800-0915
+MATH 3315 (Differential Equations),003,MWF,1300-1350
+HONR 1101 (Honors Leadership),H01,M,1530-1645
+HONR 1101 (Honors Leadership Lab),H10,W,1530-1645
+HONR 1101 (Honors Leadership Lab),H12,R,1530-1645
